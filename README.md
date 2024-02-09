@@ -1,16 +1,20 @@
 # notifier_update
 
-A new Flutter project.
+Notify the cahanges to maultiple screen using a common widget and change notifier.
 
-## Getting Started
+I have face a challange while was working on a shopping app to update shopping cart count on all screen previous and next both.
 
-This project is a starting point for a Flutter application.
+Before using the notifier
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/pkumarprojects/notifier_update/assets/71274841/e15f4ee4-ed8f-4960-93b2-62687ea25707
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+After using the nofiter
+
+
+https://github.com/pkumarprojects/notifier_update/assets/71274841/88a23b5d-fb95-48f8-804f-64f284af72f7
+
+
+
+
+
